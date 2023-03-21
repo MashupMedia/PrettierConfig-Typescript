@@ -1,0 +1,10 @@
+{
+    "prettier.bracketSpacing": true,
+    "prettier.enable": true,
+    "prettier.semi": true,
+    "prettier.tabWidth": 2,
+    "prettier.trailingComma": "es5",
+    "prettier.useEditorConfig": true,
+    "prettier.useTabs": true,
+    "prettier.vueIndentScriptAndStyle": true
+}
